@@ -34,6 +34,7 @@
 3、需安装 HiveNetLib 、HandLessRobot 两个依赖包的最新版本：
 
 ```
+pip install pillow
 pip install HiveNetLib
 pip install HandLessRobot
 ```
